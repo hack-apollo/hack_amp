@@ -1,0 +1,10 @@
+(sym_lib_table
+  (lib (name Hifi-rescue)(type Legacy)(uri ${KIPRJMOD}/Hifi-rescue.lib)(options "")(descr ""))
+  (lib (name power)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/power.lib)(options "")(descr ""))
+  (lib (name device)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/device.lib)(options "")(descr ""))
+  (lib (name 74xx)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/74xx.lib)(options "")(descr ""))
+  (lib (name audio)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/audio.lib)(options "")(descr ""))
+  (lib (name interface)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/interface.lib)(options "")(descr ""))
+  (lib (name LibCool)(type Legacy)(uri D:/software/KICAD/NewLibcool.pretty-master/LibCool.lib)(options "")(descr ""))
+  (lib (name amp-rescue)(type Legacy)(uri ${KIPRJMOD}/amp-rescue.lib)(options "")(descr ""))
+)
