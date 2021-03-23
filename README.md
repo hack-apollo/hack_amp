@@ -1,4 +1,4 @@
-HACK LABS POWER AMP                                                                              
+HACK LABS POWER AMP (TPA3116D2)                                                                             
 Author: HACK实验室                                                                                     
 YouTube ID: HACK实验室, welcome to subscribe https://www.youtube.com/channel/UCxFY1FcIYK9d7riTvIh6eiA                                                         
 HACK_PowerAmp is a free download and may be used, modified, evaluated and
